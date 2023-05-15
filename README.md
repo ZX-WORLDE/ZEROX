@@ -29,7 +29,7 @@ python Z-force.py
 
 ___This Tools is paid and Free There are both.___</br>
 
-## DEMO_more_SCREEN SHOT :
+## DEMO_more_SKIN SHOTs :
 <br>
 <p align="center">
 <img src="__more__/pik.jpg"/>
