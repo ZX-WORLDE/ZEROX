@@ -1,5 +1,5 @@
 
-ðŸŒºWelcomeðŸŒº
+💥Welcome💥
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
@@ -12,7 +12,7 @@ SHADHIN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hy
 </br>
 <p align="center">
 
-<h2>COMMAND_RUN ðŸ”» </h2>
+<h2>_RUN_COMMAND 🔰» </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=PAID+AND+FREE+MIX+COMMAND+ENJOY+DEAR%F0%9F%A4%9F)](https://git.io/typing-svg)
 
@@ -20,7 +20,6 @@ SHADHIN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hy
 pkg update && pkg upgrade
 pkg install git
 pkg install python
-pip install requests
 
 rm -rf ZEROX
 git clone https://github.com/ZX-WORLDE/ZEROX
@@ -30,7 +29,7 @@ python Z-force.py
 
 ___This Tools is paid and Free There are both.___</br>
 
-## DEMO_moreEENSHOT :
+## DEMO_more_SCREEN SHOT :
 <br>
 <p align="center">
 <img src="__more__/pik.jpg"/>
