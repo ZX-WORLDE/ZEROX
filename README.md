@@ -20,7 +20,7 @@ SHADHIN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hy
 pkg update && pkg upgrade
 pkg install git
 pkg install python
-
+cd $HOME
 rm -rf ZEROX
 git clone https://github.com/ZX-WORLDE/ZEROX
 cd ZEROX
