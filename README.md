@@ -17,9 +17,9 @@ SHADHIN <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hy
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=PAID+AND+FREE+MIX+COMMAND+ENJOY+DEAR%F0%9F%A4%9F)](https://git.io/typing-svg)
 
 ```
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
 pkg install git
-pkg install python
+pkg install python -y
 cd $HOME
 rm -rf ZEROX
 git clone https://github.com/ZX-WORLDE/ZEROX
